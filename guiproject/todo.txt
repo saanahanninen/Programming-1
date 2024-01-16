@@ -1,0 +1,5 @@
+high;go to the dentist
+high;meet with a friend
+low;prep meals
+high;go for a walk
+low;revise for exams
