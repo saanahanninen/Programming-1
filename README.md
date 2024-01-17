@@ -2,11 +2,13 @@ These are some of the projects I did during the Programming 1 course during my B
 
 
 &#x270F;&#xFE0F; guiproject (final course project):
+
 The program works as a to-do list that shows to-dos (stored in a .txt file)
 in alphabetical and priority order. The program allows the user to add and delete to-dos.
 The aim was to create an advanced GUI (using components not covered in the course materials).
 
 &#127922; mölkky:
+
 Mölkky is a traditional Finnish game where players aim to score exactly 50 points.
 If a player ends up having more than 50 points, their score will be decreased to 25 points.
 
@@ -19,6 +21,7 @@ that will be printed if the entered score is larger than the average of all the 
 for that player, and the hit percentage printout.
 
 &#128230; warehouse:
+
 When the program starts, it asks the user the name of the file containing the product
 information. A user interface is then shown to the user in which they can enter
 the following commands:
